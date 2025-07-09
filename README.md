@@ -112,6 +112,8 @@ Once the application is running, you can:
 *   **Get Prediction:** Click the "Predict Survival" button to see the model's prediction (Survived or Did Not Survive) and the associated survival probabilities.
 *   **Observe Fallback:** If the primary machine learning model encounters an issue, a warning message will appear, and the application will seamlessly use the built-in rule-based fallback predictor to provide a prediction.
 
+### Access the application here
+https://titanicmodelpredictor.streamlit.app/
 
 
 ## Project Structure
