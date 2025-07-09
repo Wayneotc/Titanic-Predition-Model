@@ -122,7 +122,7 @@ The repository is structured as follows:
 
 ```
 titanic_streamlit_app/
-├── app.py
+├── titanic_app.py
 ├── best_rf_model.pkl
 ├── requirements.txt
 └── README.md
