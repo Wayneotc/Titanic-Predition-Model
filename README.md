@@ -113,7 +113,7 @@ Once the application is running, you can:
 *   **Observe Fallback:** If the primary machine learning model encounters an issue, a warning message will appear, and the application will seamlessly use the built-in rule-based fallback predictor to provide a prediction.
 
 ### Access the application here
-https://titanicmodelpredictor.streamlit.app/
+https://titanic-predition-model.streamlit.app/
 
 
 ## Project Structure
@@ -175,9 +175,7 @@ Contributions are welcome! If you have suggestions for improvements, bug fixes, 
 
 Please ensure your code adheres to good practices and includes relevant tests where applicable.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
