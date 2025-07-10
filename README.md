@@ -43,7 +43,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ### Prerequisites
 
-Ensure you have Python 3.8+ installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
+Ensure you have Python 3.8+ installed on your system.
 
 ### Clone the Repository
 
@@ -181,7 +181,7 @@ Please ensure your code adheres to good practices and includes relevant tests wh
 
 For any questions or inquiries, please open an issue in this repository or contact the author:
 
-*   **Author:** Wayne OTIENO
-*   **GitHub:** https://github.com/Wayneotc (Replace with your GitHub profile link)
+*   **Author:** Wayne Otieno
+*   **GitHub:** https://github.com/Wayneotc 
 
 
